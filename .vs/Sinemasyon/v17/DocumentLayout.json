@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emir\\source\\repos\\Sinemasyon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E712F-031E-450D-AC5E-961C1CA1AFAD}|Sinemasyon\\Sinemasyon.csproj|c:\\users\\emir\\source\\repos\\sinemasyon\\sinemasyon\\frmbiletolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E712F-031E-450D-AC5E-961C1CA1AFAD}|Sinemasyon\\Sinemasyon.csproj|solutionrelative:sinemasyon\\frmbiletolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E712F-031E-450D-AC5E-961C1CA1AFAD}|Sinemasyon\\Sinemasyon.csproj|C:\\Users\\Emir\\source\\repos\\Sinemasyon\\sinemasyon\\frmbiletolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01E712F-031E-450D-AC5E-961C1CA1AFAD}|Sinemasyon\\Sinemasyon.csproj|solutionrelative:sinemasyon\\frmbiletolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E712F-031E-450D-AC5E-961C1CA1AFAD}|Sinemasyon\\Sinemasyon.csproj|C:\\Users\\Emir\\source\\repos\\Sinemasyon\\sinemasyon\\frmbiletdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E712F-031E-450D-AC5E-961C1CA1AFAD}|Sinemasyon\\Sinemasyon.csproj|solutionrelative:sinemasyon\\frmbiletdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E712F-031E-450D-AC5E-961C1CA1AFAD}|Sinemasyon\\Sinemasyon.csproj|C:\\Users\\Emir\\source\\repos\\Sinemasyon\\sinemasyon\\frmbiletdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01E712F-031E-450D-AC5E-961C1CA1AFAD}|Sinemasyon\\Sinemasyon.csproj|solutionrelative:sinemasyon\\frmbiletdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E712F-031E-450D-AC5E-961C1CA1AFAD}|Sinemasyon\\Sinemasyon.csproj|C:\\Users\\Emir\\source\\repos\\Sinemasyon\\sinemasyon\\frmoyuncukayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E712F-031E-450D-AC5E-961C1CA1AFAD}|Sinemasyon\\Sinemasyon.csproj|solutionrelative:sinemasyon\\frmoyuncukayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E712F-031E-450D-AC5E-961C1CA1AFAD}|Sinemasyon\\Sinemasyon.csproj|C:\\Users\\Emir\\source\\repos\\Sinemasyon\\sinemasyon\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01E712F-031E-450D-AC5E-961C1CA1AFAD}|Sinemasyon\\Sinemasyon.csproj|solutionrelative:sinemasyon\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E712F-031E-450D-AC5E-961C1CA1AFAD}|Sinemasyon\\Sinemasyon.csproj|C:\\Users\\Emir\\source\\repos\\Sinemasyon\\sinemasyon\\frmbiletsorgulama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E712F-031E-450D-AC5E-961C1CA1AFAD}|Sinemasyon\\Sinemasyon.csproj|solutionrelative:sinemasyon\\frmbiletsorgulama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E712F-031E-450D-AC5E-961C1CA1AFAD}|Sinemasyon\\Sinemasyon.csproj|C:\\Users\\Emir\\source\\repos\\Sinemasyon\\sinemasyon\\frmbiletsorgulama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01E712F-031E-450D-AC5E-961C1CA1AFAD}|Sinemasyon\\Sinemasyon.csproj|solutionrelative:sinemasyon\\frmbiletsorgulama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E712F-031E-450D-AC5E-961C1CA1AFAD}|Sinemasyon\\Sinemasyon.csproj|C:\\Users\\Emir\\source\\repos\\Sinemasyon\\sinemasyon\\filmkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E712F-031E-450D-AC5E-961C1CA1AFAD}|Sinemasyon\\Sinemasyon.csproj|solutionrelative:sinemasyon\\filmkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmBiletDetay.cs",
+              "DocumentMoniker": "C:\\Users\\Emir\\source\\repos\\Sinemasyon\\Sinemasyon\\FrmBiletDetay.cs",
+              "RelativeDocumentMoniker": "Sinemasyon\\FrmBiletDetay.cs",
+              "ToolTip": "C:\\Users\\Emir\\source\\repos\\Sinemasyon\\Sinemasyon\\FrmBiletDetay.cs",
+              "RelativeToolTip": "Sinemasyon\\FrmBiletDetay.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwC0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:01:18.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmBiletOlustur.cs",
+              "DocumentMoniker": "C:\\Users\\Emir\\source\\repos\\Sinemasyon\\Sinemasyon\\FrmBiletOlustur.cs",
+              "RelativeDocumentMoniker": "Sinemasyon\\FrmBiletOlustur.cs",
+              "ToolTip": "C:\\Users\\Emir\\source\\repos\\Sinemasyon\\Sinemasyon\\FrmBiletOlustur.cs",
+              "RelativeToolTip": "Sinemasyon\\FrmBiletOlustur.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAwEgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:51:56.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmOyuncuKayit.cs",
+              "DocumentMoniker": "C:\\Users\\Emir\\source\\repos\\Sinemasyon\\Sinemasyon\\FrmOyuncuKayit.cs",
+              "RelativeDocumentMoniker": "Sinemasyon\\FrmOyuncuKayit.cs",
+              "ToolTip": "C:\\Users\\Emir\\source\\repos\\Sinemasyon\\Sinemasyon\\FrmOyuncuKayit.cs",
+              "RelativeToolTip": "Sinemasyon\\FrmOyuncuKayit.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:12:05.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBiletOlustur.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Emir\\source\\repos\\Sinemasyon\\Sinemasyon\\FrmBiletOlustur.cs",
+              "RelativeDocumentMoniker": "Sinemasyon\\FrmBiletOlustur.cs",
+              "ToolTip": "C:\\Users\\Emir\\source\\repos\\Sinemasyon\\Sinemasyon\\FrmBiletOlustur.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Sinemasyon\\FrmBiletOlustur.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T02:39:42.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmBiletDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Emir\\source\\repos\\Sinemasyon\\Sinemasyon\\FrmBiletDetay.cs",
+              "RelativeDocumentMoniker": "Sinemasyon\\FrmBiletDetay.cs",
+              "ToolTip": "C:\\Users\\Emir\\source\\repos\\Sinemasyon\\Sinemasyon\\FrmBiletDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Sinemasyon\\FrmBiletDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:20:44.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAnaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Emir\\source\\repos\\Sinemasyon\\Sinemasyon\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "Sinemasyon\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\Emir\\source\\repos\\Sinemasyon\\Sinemasyon\\FrmAnaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Sinemasyon\\FrmAnaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:11:13.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmBiletSorgulama.cs",
+              "DocumentMoniker": "C:\\Users\\Emir\\source\\repos\\Sinemasyon\\Sinemasyon\\FrmBiletSorgulama.cs",
+              "RelativeDocumentMoniker": "Sinemasyon\\FrmBiletSorgulama.cs",
+              "ToolTip": "C:\\Users\\Emir\\source\\repos\\Sinemasyon\\Sinemasyon\\FrmBiletSorgulama.cs",
+              "RelativeToolTip": "Sinemasyon\\FrmBiletSorgulama.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:12:15.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmBiletSorgulama.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Emir\\source\\repos\\Sinemasyon\\Sinemasyon\\FrmBiletSorgulama.cs",
+              "RelativeDocumentMoniker": "Sinemasyon\\FrmBiletSorgulama.cs",
+              "ToolTip": "C:\\Users\\Emir\\source\\repos\\Sinemasyon\\Sinemasyon\\FrmBiletSorgulama.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Sinemasyon\\FrmBiletSorgulama.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:11:05.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilmKayit.cs",
+              "DocumentMoniker": "C:\\Users\\Emir\\source\\repos\\Sinemasyon\\Sinemasyon\\FilmKayit.cs",
+              "RelativeDocumentMoniker": "Sinemasyon\\FilmKayit.cs",
+              "ToolTip": "C:\\Users\\Emir\\source\\repos\\Sinemasyon\\Sinemasyon\\FilmKayit.cs",
+              "RelativeToolTip": "Sinemasyon\\FilmKayit.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T02:56:29.274Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

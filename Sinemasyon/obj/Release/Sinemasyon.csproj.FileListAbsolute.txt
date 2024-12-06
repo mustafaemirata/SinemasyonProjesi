@@ -1,0 +1,12 @@
+C:\Users\Emir\source\repos\Sinemasyon\Sinemasyon\bin\Release\Sinemasyon.exe.config
+C:\Users\Emir\source\repos\Sinemasyon\Sinemasyon\bin\Release\Sinemasyon.exe
+C:\Users\Emir\source\repos\Sinemasyon\Sinemasyon\bin\Release\Sinemasyon.pdb
+C:\Users\Emir\source\repos\Sinemasyon\Sinemasyon\obj\Release\Sinemasyon.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\Sinemasyon\Sinemasyon\obj\Release\Sinemasyon.FrmGiris.resources
+C:\Users\Emir\source\repos\Sinemasyon\Sinemasyon\obj\Release\Sinemasyon.FrmAnaForm.resources
+C:\Users\Emir\source\repos\Sinemasyon\Sinemasyon\obj\Release\Sinemasyon.FrmYonetmenKayit.resources
+C:\Users\Emir\source\repos\Sinemasyon\Sinemasyon\obj\Release\Sinemasyon.Properties.Resources.resources
+C:\Users\Emir\source\repos\Sinemasyon\Sinemasyon\obj\Release\Sinemasyon.csproj.GenerateResource.cache
+C:\Users\Emir\source\repos\Sinemasyon\Sinemasyon\obj\Release\Sinemasyon.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\Sinemasyon\Sinemasyon\obj\Release\Sinemasyon.exe
+C:\Users\Emir\source\repos\Sinemasyon\Sinemasyon\obj\Release\Sinemasyon.pdb
